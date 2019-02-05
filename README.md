@@ -12,7 +12,7 @@ The `option` is a json filed (for PostgreSQL is a jsonb)
  * @property string $text
  * @property array $data
  */
-class Example extends ActiveRecordJson
+class Example extends \xakki\yii2-ar-json\components\ActiveRecordJson
 {
     protected $_json_attribute = 'option';
     protected $_json_catch = ['text', 'data', 'info'];
