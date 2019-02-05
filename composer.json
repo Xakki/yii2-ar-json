@@ -1,0 +1,25 @@
+{
+    "name": "xakki/yii2-ar-json",
+    "type": "yii2-extension",
+    "description": "ActiveRecord json field",
+    "keywords": ["yii2", "ActiveRecord", "json"],
+    "license": "LGPL-3",
+    "support": {
+        "issues": "https://github.com/Xakki/yii2-ar-json/issues",
+        "source": "https://github.com/Xakki/yii2-ar-json"
+    },
+    "authors": [
+        {
+            "name": "Xakki",
+            "email": "dev@xakki.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xakki\\yii2-ar-json\\": ""
+        }
+    }
+}
