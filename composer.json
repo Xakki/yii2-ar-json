@@ -3,7 +3,7 @@
     "type": "yii2-extension",
     "description": "ActiveRecord json field",
     "keywords": ["yii2", "ActiveRecord", "json"],
-    "license": "LGPL-3",
+    "license": "GPL-3.0-or-later",
     "support": {
         "issues": "https://github.com/Xakki/yii2-ar-json/issues",
         "source": "https://github.com/Xakki/yii2-ar-json"
