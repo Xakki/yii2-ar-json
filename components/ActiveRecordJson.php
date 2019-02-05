@@ -1,5 +1,5 @@
 <?php
-namespace xakki\yii2-ar-json;
+namespace xakki\yii2-ar-json\components;
 
 
 class ActiveRecordJson extends \yii\db\ActiveRecord
