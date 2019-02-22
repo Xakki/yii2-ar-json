@@ -1,6 +1,8 @@
 # One field for all
 Combine some field into json field ActiveRecord 
 
+```composer require xakki/yii2-ar-json```
+
 This table has only  field - `id`, `create`, `option`
 The `option` is a json filed (for PostgreSQL is a jsonb)
 
